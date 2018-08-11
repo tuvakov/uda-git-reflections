@@ -31,3 +31,8 @@ keeping your history organized? How would branches help?
 Often times there are some situations where one would need to make a big change
 in the code. In those situations branches comes very handy. One can keep each
 big change in seperate branches and combine all them in the master branch.
+
+REFLECTION #5: How do the diagrams help you visualize the branch structure?
+
+Visualizing stuff is always makes things clear. The branches are no exception.
+It makes it easy to comprehend the structure of the whole repository.
