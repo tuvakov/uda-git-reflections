@@ -18,3 +18,9 @@ seperately or commit the whole repository which is not the most practical way of
 doing things most of the times. To summarize, the staging area offers a ability
 to gather files together that will be commited in the next commit and freely
 change contents before comitting.
+
+REFLECTIONS #3: How can you use the staging area to make sure you have one 
+commit per logical change?
+
+After making a logical change on the related files I can combine the in the
+staging area and perform the commit.
