@@ -1,0 +1,20 @@
+# REFLECTION #1: What happens when you initialize a repository? Why do you need 
+to do it?
+
+When we initialize a Git repository, Git adds generates a metadata about the
+repository, more specifically it adds status info about the uncommitted files
+and etc. In order to be able to use Git and its version control features we
+have to initialze a repository. Otherwise, we cannot simply use it.
+
+
+# REFLECTION #2: How is the staging area different from the working directory
+and the repository? What value do you think it offers?
+
+The repository contains the whole code base (or whatever it's being used for)
+along with commit history and other metadata about the repository. On the other
+hands the staging area only contains files that will be committed together in
+the next commit. Without staging area we will need to either commit each file
+seperately or commit the whole repository which is not the most practical way of
+doing things most of the times. To summarize, the staging area offers a ability
+to gather files together that will be commited in the next commit and freely
+change contents before comitting.
