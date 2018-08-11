@@ -24,3 +24,10 @@ commit per logical change?
 
 After making a logical change on the related files I can combine the in the
 staging area and perform the commit.
+
+REFLECTION #4: What are some situations when branches would be helpful in 
+keeping your history organized? How would branches help?
+
+Often times there are some situations where one would need to make a big change
+in the code. In those situations branches comes very handy. One can keep each
+big change in seperate branches and combine all them in the master branch.
