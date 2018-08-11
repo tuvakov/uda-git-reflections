@@ -1,0 +1,63 @@
+# Reflection #1
+
+I have completed 80% of this course before.
+But haven't use what I learnt and consequently forgot everything.
+Although I used the diff command several times over the past year.
+I should say it is a lot easier if you know how to use it.
+At this moment, it is a lot easier than vim diff.
+Anyways, it is good to be back.
+Let's rock it!
+
+
+# Reflection #2
+
+While coding my thesis project I didn't use a version control despite being in 
+Linux, despite knowing it would make my life easier. Subsequently, I had to move
+around a huge zip files. And I shoud admit it was a pain. Moreover, keeping the 
+the filenames consistent was also a headache. That's why from now on I'm
+planning to use Git in my projects to not to fall the same holes again.
+
+# Reflection #3 What do you think are the pros and cons of manually choosing
+# when to create a commit, like you do in Git, vs having versions automatically
+# saved, like Google Docs does?
+
+Clearly, when committing manually sometimes one might forget to commit on a
+natural committing point. Conversely, one also might commit to often and the
+commit log will get too messy.
+
+On the other hands, committing automatically will clearly cause random commits
+that don't make any sense. Although, it might match to natural commit point, but
+hey, that possibility is really low. 
+
+So, I guess until we find a way to commit automatically in a logical point, we
+stuck with committing manually. I suppose one gets use to commit with good
+intervals after passing the learning curve.
+
+# Reflection #4: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I assume because Git was developed for version control of code files. And since
+like Sara said most of the time a project contains more than one file and those
+files are somehow connected to each other. Committing each files would be
+tedious and easy to loose track of. I guess that's why Git allows to commit more
+than one file at a time.
+On the other hands, services like GoogleDocs was built to write documents online
+and most of the time those documents are not connected with each other. I guess
+therefore they didn't bother with multiple file commit.
+
+# Reflection #5: How can you use the commands git log and git diff to view the history of files?
+
+Well, pretty straightforward. Just list the history of commits with git log.
+Pick the commit IDs you want to see differenrce and use git diff command with
+IDs. That's all.
+
+# Reflection #6: How might using version control make you more confident to make 
+changes that could break something?
+
+Well, it gives confidence to mess up with the code without worrying a moment
+since we can go back to the working version of the code with a single command.
+
+# Reflections #7: Now that you have your workspace set up, what do you want to try using Git for?
+
+Like in the previos time I didn't totally get the workspace setup process expect
+a few or two things. But quite exicted to finish the courase and start using git
+and Github actively in my future projects.
