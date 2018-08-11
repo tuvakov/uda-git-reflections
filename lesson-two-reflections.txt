@@ -36,3 +36,14 @@ REFLECTION #5: How do the diagrams help you visualize the branch structure?
 
 Visualizing stuff is always makes things clear. The branches are no exception.
 It makes it easy to comprehend the structure of the whole repository.
+
+
+REFLECTION #6: What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+
+Technically after merging two branches both of them are still exist, in other
+words they don't become a single branch. Only thing we get is that now we can is
+first, the files get merged in the newest commit and also we can use that commit
+to access older commits of the both branches.
+
+
