@@ -1,3 +1,10 @@
+################################################
+#											   #	
+# This file contains reflections of lesson one.#
+#											   #
+################################################
+
+
 # Reflection #1
 
 I have completed 80% of this course before.
