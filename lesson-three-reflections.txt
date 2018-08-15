@@ -34,3 +34,10 @@ I would say unless we don't need to update or change a project entirely
 branching is good option to try out new things. Otherwise, cloning would be a
 better option. I guess other use cases of branches and clones are mutually
 exclusive.
+
+# REFLECTION #4: What is the benefit of having a copy of the last known state of
+the remote stored locally?
+
+Firstly, it makes a lot easier to compare local changes with the remote even
+in offline situations. And also as the instructors said it helps to merge the
+local and remote repos.
