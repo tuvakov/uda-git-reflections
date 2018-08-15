@@ -47,3 +47,13 @@ first, the files get merged in the newest commit and also we can use that commit
 to access older commits of the both branches.
 
 
+REFLECTION #7: What are the pros and cons of Git’s automatic merging vs. 
+always doing merges manually?
+
+Automatic merging is handy when the merging is not complicated. Git saves us
+time by doing it automatically. Since, manual merging will do pretty much the
+same stuff on those type of merging I guess it is safe to relie on automatic
+merging.
+On the other hand, when merging gets complicated automatic merging will mess up
+the code since it is not sure how should it supposed to complete the merging.
+So, in those cases manual merging is the only option.
