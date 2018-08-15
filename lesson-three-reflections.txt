@@ -41,3 +41,13 @@ the remote stored locally?
 Firstly, it makes a lot easier to compare local changes with the remote even
 in offline situations. And also as the instructors said it helps to merge the
 local and remote repos.
+
+# REFLECTION #5: How would you collaborate without using Git or GitHub? What 
+would be easier, and what would be harder?
+
+I guess keeping a remote on GitHub and updating it as project advances would be
+a good start. Easier thing is of course the version control and pushing/pulling
+files with a few commands. But I would say the harder thing is definetely merge
+conflicts and processing them properly without breaking anything.
+
+
