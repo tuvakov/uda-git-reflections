@@ -16,3 +16,21 @@ having Git automatically stay up-to-date with your remote repository?
 Because we might not always stay up-to-date with remote. For instance, if some
 unwanted change is pushed to the remote by someone else automatic pull will
 bring that change to the local and may mess up the code.
+
+# REFLECTIONS #3: Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Forking is cloning a repo that you don't have permission to change directly to
+your GitHub. So, better to use this one if we want to clone someone else's
+project, change it and share back on GitHub.
+
+Cloning is literally copying a entire repo to another location. It is useful for
+copying a repo from remote or from local. 
+
+Branching doesn't involve any copying. It just supplies a new path to work
+within a repo whilst keeping existing code intact. 
+
+I would say unless we don't need to update or change a project entirely
+branching is good option to try out new things. Otherwise, cloning would be a
+better option. I guess other use cases of branches and clones are mutually
+exclusive.
