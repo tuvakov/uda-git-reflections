@@ -2,10 +2,17 @@
 # Reflections for lesson three     #
 ####################################
 
-# REFLECTION # 1: When would you want to use a remote repository
+# REFLECTION #1: When would you want to use a remote repository
 rather than keeping all your work local?
 
 Remote repos are great if one works on the same projects from 
 several computers. The remote repo will be a common place
 to keep the main codebase. Likewise, the logic applies to 
 managing a project collobratively.
+
+# REFLECTION #2: Why might you want to always pull changes manually rather than 
+having Git automatically stay up-to-date with your remote repository?
+
+Because we might not always stay up-to-date with remote. For instance, if some
+unwanted change is pushed to the remote by someone else automatic pull will
+bring that change to the local and may mess up the code.
