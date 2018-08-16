@@ -50,4 +50,11 @@ a good start. Easier thing is of course the version control and pushing/pulling
 files with a few commands. But I would say the harder thing is definetely merge
 conflicts and processing them properly without breaking anything.
 
+# REFLECTIONS #6: When would you want to make changes in a separate branch 
+rather than directly in master? What benefits does each approach have?
 
+I assume this question is related to master in the remote. I think I will make
+changes directly into master if I'm working alone or the feature I'm working
+doesn't mix with other developers' code. In other cases, it's good idea to get
+their conformation before commiting any change to master branch by using
+seperate branches and pull requests.
